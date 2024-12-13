@@ -2,7 +2,7 @@
 In this project, we build a Gaussian Naive Bayes class using the Python libraries NumPy and Pandas. We then compared the results of our class with SciKit-Learn's GaussianNB class with the UCI Cleveland Heart Disease Dataset. You can find our full Jupyter notebook in the `src/` folder. You can find our cleaned and preprocessed dataset in the `data/` folder. The `report.pdf` file is our Jupyter notebook rendered as a PDF, and the `presentation.pdf` file gives an overview of our project in a slideshow format.
 
 ## Prerequisites
-To recreate our conda environment, you can use the `gnb.yml` file with the following lines
+To recreate our conda environment, you can use the `gnb.yml` file with the following lines:
 
 `conda env create -n gnb -f gnb.yml`
 
